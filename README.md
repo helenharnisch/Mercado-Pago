@@ -1,6 +1,11 @@
+# Mercado-Pago
+
+![captura](https://user-images.githubusercontent.com/32281399/37920539-7f9a0ce4-30fd-11e8-9ee5-44d9ba75063f.png)
+
+
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
 
-# Proyecto final 6
+## Proyecto final 6
 ## Proyecto desarrollo app e-commerce
 
 * Como reto final de este curso deberás crear una app web bajo los principios de SPA Single page aplication.
@@ -36,5 +41,3 @@
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
 :smile: [Lorena Palominos](https://github.com/lpalominosf)
-
-
