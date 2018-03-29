@@ -1,6 +1,6 @@
 # Mercado-Pago
 
-![captura](https://user-images.githubusercontent.com/32281399/37920539-7f9a0ce4-30fd-11e8-9ee5-44d9ba75063f.png)
+![funkopop](https://user-images.githubusercontent.com/32281399/38094521-5fcf5e0c-3344-11e8-9184-0b8b9f3cfe0a.png)
 
 
 [![Sourcegraph for Repo Reference Count](https://img.shields.io/badge/Release%20Date-February-brightgreen.svg?style=flat-square)]()
