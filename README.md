@@ -41,3 +41,5 @@
 :smile: [Daniela Parraguez](https://github.com/daniparraguez)
 :smile: [Carolina Saavedra](https://github.com/saahub)
 :smile: [Lorena Palominos](https://github.com/lpalominosf)
+
+## Desarrollado para [Laboratoria](http://laboratoria.la)
